@@ -1,4 +1,4 @@
-,category_id,category
+category_id,category_name,category_description
 0,cat01,food
 1,cat02,music
 2,cat03,technology
